@@ -1,0 +1,7 @@
+# Temporary working files
+extracted_document/
+verification/
+/tmp/
+
+# Temporary images
+modified_images/
